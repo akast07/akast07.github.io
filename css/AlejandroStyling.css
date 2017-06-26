@@ -1,0 +1,120 @@
+*{
+  margin:0;
+  padding:0;
+  text-decoration: none;
+
+}
+img,
+embed,
+object,
+video{
+  max-width: 100%;
+}
+body{
+  min-height: 100%;
+  max-height: 100%;
+  font-size: 62.5%;
+}
+h2{
+  font-size:1em;
+  font-weight: bold;
+  font-family:fantasy ;
+}
+a:visited{
+  list-style: none;
+}
+li{
+  list-style-type: none;
+}
+li:visited{
+}
+a:link{
+  text-decoration: none;
+  color:black;
+}
+a:visited{
+  text-decoration: none;
+  color:black;
+}
+h4{
+  font-size:2em;
+  text-decoration: underline;
+}
+h5{
+  font-size: 1.5em;
+}
+#Name{
+  font-size: 3em;
+  width: 100%;
+  align-content: center;
+  text-align: center;
+}
+#contactMe{
+  position: relative;
+  text-align: center;
+  align-content: center;
+  font-size: 1.5em;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+#contactMe li{
+  display: inline;
+  position: relative;
+  padding-left: 5px;
+}
+#identity{
+  max-width: 100%;
+  max-height: 100%;
+}
+#selfie{
+  position: relative;
+  float:left;
+  width: 30%;
+  height: auto;
+  border:black solid;
+  margin: 10px 20px 20px 0px;
+  margin-left: 2%;
+}
+#describeMe{
+  position: relative;
+  font-size: 1.5em;
+  max-width: 100%;
+  margin-right:3%;
+}
+#SkillHeading{
+  margin:0 0 10px 0;
+}
+#technologies{
+  position: relative;
+  margin:40px 0 40px 0;
+  display: inline-block;
+}
+#subheaders{
+  position: relative;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+}
+#skillList{
+  display: inline-block;
+  position:relative;
+  align-items: center;
+  margin:10px 0 10px 0;
+}
+#skillList li{
+  font-size: 1.3em;
+}
+#soundcloud{
+  display: inline-block;
+  left:1%;
+  width: 30%;
+  height: auto;
+}
+#timely{
+  display: block;
+  position:relative;
+  bottom:0;
+  align-content: center;
+  text-align: center;
+  margin-top:20px;
+}
