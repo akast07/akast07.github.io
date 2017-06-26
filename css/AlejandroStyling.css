@@ -98,16 +98,17 @@ h5{
   position: relative;
   margin:40px 0 40px 0;
   display: inline-block;
-}
-#subheaders{
-  position: relative;
-  text-align: center;
   align-items: center;
-  align-content: center;
+  text-align: center;
+}
+#subHeaders{
+  position: relative;
+  text-decoration: underline;
 }
 #skillList{
   display: inline-block;
   position:relative;
+  align-content: center;
   align-items: center;
   margin:10px 0 10px 0;
 }
@@ -118,6 +119,9 @@ h5{
   font-size:1.5em;
   text-align: center;
   margin: 0 0 20px 0;
+}
+#PortfolioName{
+  text-decoration: underline;
 }
 #soundcloud{
   display: inline-block;
